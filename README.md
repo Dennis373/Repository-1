@@ -1,3 +1,3 @@
-#reciepe 
+# Guacamole recipe 
 
-Irgendein Text keine ahnung
+This is an exercise repository
